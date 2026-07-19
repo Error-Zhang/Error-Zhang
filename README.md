@@ -1,72 +1,24 @@
-<p align="center">
-  <img src="./assets/velaros-profile.svg" width="100%" alt="ZhangZhengLian — Creator of VelarOS" />
-</p>
+# Hi, I'm ZhangZhengLian 👋
 
-<h1 align="center">Hi, I'm ZhangZhengLian 👋</h1>
+I'm an independent product builder and the creator of [VelarOS](https://velaros.cn).
 
-<p align="center">
-  <strong>Creator of VelarOS</strong><br />
-  Building a personal AI operating system and the shared kernel behind an ecosystem of AI applications.
-</p>
+I build products end to end—from product direction and interaction design to architecture, desktop runtimes, cloud services, and release engineering. I work with a fleet of AI agents like an engineering team: I define the boundaries, assign the work, review the evidence, and turn hard-earned lessons into code, tests, and documentation.
 
-<p align="center">
-  <a href="https://velaros.cn">VelarOS</a>
-  ·
-  <a href="https://github.com/Error-Zhang/VelarOS-HTML-Artifacts">Open-source work</a>
-  ·
-  <a href="mailto:zhenglian0906@gmail.com">Email</a>
-</p>
+Right now, I'm building VelarOS: a personal AI operating system designed to stay with you—remembering your preferences, accumulating your capabilities, and holding your boundaries.
 
-## What I'm building
+My favorite kind of work is finding the real owner of a hard problem—state, lifecycle, recovery, or policy—and replacing parallel truths with one durable system.
 
-I want AI to become a durable personal system: one that can carry context forward, act on real work, and remain under the user's control—not just another disposable chat window.
+## What I care about
 
-**VelarOS** is a personal AI operating system and the application ecosystem growing around **VelarOS Kernel**.
+- Real products over impressive demos
+- Clear ownership, few entrances, and recoverable state
+- User-controlled AI with visible boundaries
+- Building at AI speed without giving up engineering rigor
 
-- **VelarOS Kernel** is the shared foundation for execution, capabilities, memory, permissions, context, state, and APIs across different AI applications.
-- **VelarOS Desktop** is the first real product built on that foundation: a desktop shell, a proving ground for the Kernel, and its reference product.
-- **The VelarOS ecosystem** is the longer-term direction: AI applications, skills, plugins, and capability providers that share one trusted system foundation without losing their own product identity.
+## I work with
 
-> 让 AI 不只回答一次，而是在用户掌控下，持续理解、执行并延续同一个人和同一件事。
+`TypeScript` · `React` · `Electron` · `Bun` · `Node.js` · `SQLite` · `AI SDK`
 
-## Current focus
+## Find me
 
-- Durable agent execution, long-running tasks, recovery, and observability
-- User-owned memory, knowledge, and context continuity
-- Permission boundaries, human checkpoints, and auditable actions
-- Desktop experiences that connect projects, the browser, and local system capabilities
-- Stable Kernel APIs that future AI applications can reuse
-
-## Technology
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Electron-191970?logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Bun-14151A?logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/AI%20SDK-000000?logo=vercel&logoColor=white" alt="AI SDK" />
-</p>
-
-Most of my work sits where product design, desktop systems, agent runtimes, and AI infrastructure meet. I care less about adding another model wrapper and more about building the system around the model: execution, memory, permissions, context, state, and recovery.
-
-## Public work
-
-### [VelarOS HTML Artifacts](https://github.com/Error-Zhang/VelarOS-HTML-Artifacts)
-
-A streaming HTML artifact protocol and sandboxed iframe runtime extracted from VelarOS. It lets AI-generated interfaces arrive incrementally while keeping rendering isolated and controlled.
-
-VelarOS is under active development. I publish reusable components when they are mature enough to stand on their own.
-
-## What I believe
-
-- AI should do real work, not only produce plausible text.
-- Memory and long-term state should serve the user, with clear provenance and the ability to correct or forget.
-- Powerful automation needs visible state, explicit boundaries, and reliable recovery.
-- AI applications should reuse a trusted kernel instead of rebuilding execution, memory, and permissions from scratch.
-
-<p align="center">
-  <strong>Building VelarOS from the Kernel outward.</strong><br />
-  <a href="https://velaros.cn">velaros.cn</a>
-</p>
+[VelarOS](https://velaros.cn) · [Open-source work](https://github.com/Error-Zhang/VelarOS-HTML-Artifacts) · [Email](mailto:zhenglian0906@gmail.com)
