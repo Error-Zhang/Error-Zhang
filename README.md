@@ -1,24 +1,30 @@
-# Hi, I'm ZhangZhengLian 👋
+# Hi, I'm ZhengLian 👋
 
-I'm an independent product builder and the creator of [VelarOS](https://velaros.cn).
+🚀 **AI Product Builder** · Creator of [VelarOS](https://velaros.cn)
 
-I build products end to end—from product direction and interaction design to architecture, desktop runtimes, cloud services, and release engineering. I work with a fleet of AI agents like an engineering team: I define the boundaries, assign the work, review the evidence, and turn hard-earned lessons into code, tests, and documentation.
+> I build frontend systems and AI agents, turning ideas into products that can be shipped and used.
 
-Right now, I'm building VelarOS: a personal AI operating system designed to stay with you—remembering your preferences, accumulating your capabilities, and holding your boundaries.
+📍 Beijing · 🎂 25 years old<br />
+🎓 Master's Degree · Nankai University<br />
+📮 [zhenglian0906@gmail.com](mailto:zhenglian0906@gmail.com)<br />
+🌐 [velaros.cn](https://velaros.cn)
 
-My favorite kind of work is finding the real owner of a hard problem—state, lifecycle, recovery, or policy—and replacing parallel truths with one durable system.
+## Current Projects
 
-## What I care about
+- ⛵ [VelarOS](https://velaros.cn) — A personal AI operating system.
+- 🧩 [VelarOS HTML Artifacts](https://github.com/Error-Zhang/VelarOS-HTML-Artifacts) — A streaming HTML artifact protocol and sandboxed runtime.
+- 🏗️ [babylon-forge](https://github.com/Error-Zhang/babylon-forge) — A modern TypeScript framework and developer toolkit for Babylon.js.
 
-- Real products over impressive demos
-- Clear ownership, few entrances, and recoverable state
-- User-controlled AI with visible boundaries
-- Building at AI speed without giving up engineering rigor
+## Experience
 
-## I work with
+- **LowEntropyAI / AirJelly** — Position TBD · 2026 — Present
+- **Kuaishou** — 2025
+- **DJI Automotive** — 2024
 
-`TypeScript` · `React` · `Electron` · `Bun` · `Node.js` · `SQLite` · `AI SDK`
+## What I Work With
 
-## Find me
+**JavaScript / TypeScript** · **React** · **Vue** · **Electron** · **Babylon.js** · **AI Agents**
 
-[VelarOS](https://velaros.cn) · [Open-source work](https://github.com/Error-Zhang/VelarOS-HTML-Artifacts) · [Email](mailto:zhenglian0906@gmail.com)
+## GitHub Activity
+
+![ZhengLian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Error-Zhang&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true)
