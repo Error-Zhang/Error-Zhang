@@ -1,20 +1,22 @@
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 # Hi, I'm ZhengLian 👋
 
 🚀 **AI Product Builder** · Creator of [VelarOS](https://velaros.cn)
-- 🧠 [VelarScript](https://github.com/VelarOS-AI/VelarScript) — A language AI writes and maintains, and humans read and own.
-- 📚 [VelarScript Website](https://github.com/VelarOS-AI/VelarScript-Website) — Official website and documentation for the VelarScript language and Web framework.
 
 > I build frontend systems and AI agents, turning ideas into products that can be shipped and used.
 
 📍 Beijing · 🎂 25 years old<br />
 📮 [zhenglian0906@gmail.com](mailto:zhenglian0906@gmail.com)<br />
-🌐 [velaros.cn](https://velaros.cn)
+🌐 [velaros.cn](https://velaros.cn)<br />
+🌐 [velarscript.velaros.cn](https://velarscript.velaros.cn)
 
 ## Current Projects
 
 - ⛵ [VelarOS](https://velaros.cn) — A personal AI operating system.
+- 🧱 [VelarOS Platform](https://github.com/VelarOS-AI/VelarOS-Platform) — The shared Kernel and reusable package foundation for the VelarOS ecosystem.
 - 🧠 [VelarScript](https://github.com/VelarOS-AI/VelarScript) — A language AI writes and maintains, and humans read and own.
-- 📚 [VelarScript Website](https://github.com/VelarOS-AI/VelarScript-Website) — Official website and documentation for the VelarScript language and Web framework.
+- 🛡️ [VelarOS Arch Guard](https://github.com/VelarOS-AI/VelarOS-Arch-Guard) — An extensible architecture policy engine with plugins, safe autofix, and CI reporters.
 - 🧩 [VelarOS HTML Artifacts](https://github.com/Error-Zhang/VelarOS-HTML-Artifacts) — A streaming HTML artifact protocol and sandboxed runtime.
 - 🏗️ [babylon-forge](https://github.com/Error-Zhang/babylon-forge) — A modern TypeScript framework and developer toolkit for Babylon.js.
 
