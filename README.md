@@ -13,12 +13,17 @@
 
 ## Current Projects
 
-- ⛵ [VelarOS](https://velaros.cn) — A personal AI operating system.
-- 🧱 [VelarOS Platform](https://github.com/VelarOS-AI/VelarOS-Platform) — The shared Kernel and reusable package foundation for the VelarOS ecosystem.
-- 🧠 [VelarScript](https://github.com/VelarOS-AI/VelarScript) — A language AI writes and maintains, and humans read and own.
-- 🛡️ [VelarOS Arch Guard](https://github.com/VelarOS-AI/VelarOS-Arch-Guard) — An extensible architecture policy engine with plugins, safe autofix, and CI reporters.
-- 🧩 [VelarOS HTML Artifacts](https://github.com/Error-Zhang/VelarOS-HTML-Artifacts) — A streaming HTML artifact protocol and sandboxed runtime.
-- 🏗️ [babylon-forge](https://github.com/Error-Zhang/babylon-forge) — A modern TypeScript framework and developer toolkit for Babylon.js.
+Status: 🟢 Open source · 🟡 Planned open source · 🔒 Private · 🌐 Product
+
+- ⛵ [VelarOS](https://velaros.cn) — A personal AI operating system. · 🌐 Product
+- 🧱 [VelarOS Platform](https://github.com/VelarOS-AI/VelarOS-Platform) — The shared Kernel and reusable package foundation for the VelarOS ecosystem. · 🟡 Planned open source
+- 🖥️ [VelarOS Desktop](https://github.com/VelarOS-AI/VelarOS-Desktop) — The first shipping product, desktop shell, and reference integration for VelarOS. · 🔒 Private
+- 🧰 [VelarOS Workbench](https://github.com/VelarOS-AI/VelarOS-Workbench) — A standalone IDE workbench product. · 🔒 Private
+- 🧭 [VelarOS Extension](https://github.com/VelarOS-AI/VelarOS-Extension) — The official VelarOS browser extension. · 🔒 Private
+- 🧠 [VelarScript](https://github.com/VelarOS-AI/VelarScript) — A language AI writes and maintains, and humans read and own. · 🟢 Open source
+- 🛡️ [VelarOS Arch Guard](https://github.com/VelarOS-AI/VelarOS-Arch-Guard) — An extensible architecture policy engine with plugins, safe autofix, and CI reporters. · 🟢 Open source
+- 🧩 [VelarOS HTML Artifacts](https://github.com/Error-Zhang/VelarOS-HTML-Artifacts) — A streaming HTML artifact protocol and sandboxed runtime. · 🟢 Open source
+- 🏗️ [babylon-forge](https://github.com/Error-Zhang/babylon-forge) — A modern TypeScript framework and developer toolkit for Babylon.js. · 🟢 Open source
 
 ## Experience
 
