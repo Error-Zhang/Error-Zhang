@@ -4,7 +4,7 @@
 
 🚀 **AI Full-Stack Engineer** · Creator of [VelarOS](https://velaros.cn)
 
-> I'm an AI full-stack engineer who enjoys exploring unfamiliar territory, asking questions, and figuring things out with others. I care as much about open conversations and thoughtful collaboration as I do about technical depth and well-crafted products. For my next chapter, I hope to join a kind, curious team where we can learn from one another and build meaningful things for the long term.
+> Curious by nature, I’m happiest when exploring unfamiliar problems with thoughtful people. I care about solid engineering, open communication, and turning new ideas into products that feel genuinely useful. I’d love to find a team I click with and keep building for the long term.
 
 📍 Beijing · 🎂 25 years old<br />
 📮 [zhenglian0906@gmail.com](mailto:zhenglian0906@gmail.com)<br />
