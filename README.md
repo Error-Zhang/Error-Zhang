@@ -16,6 +16,7 @@
 
 ## Experience
 
+- **LowEntropyAI** — 2026
 - **Kuaishou** — 2025
 - **DJI Automotive** — 2024
 
