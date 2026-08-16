@@ -4,7 +4,7 @@
 
 🚀 **AI 产品构建者** · [VelarOS](https://velaros.cn) 创始人
 
-> 我构建前端系统和 AI Agent，把想法变成真正可交付、可使用的产品。
+> 我是一名 AI 全栈工程师，喜欢钻研新技术、理解完整系统如何运作，并认真地把想法打磨成产品。目前正在寻找全职工作机会。
 
 📍 北京 · 🎂 25 岁<br />
 📮 [zhenglian0906@gmail.com](mailto:zhenglian0906@gmail.com)<br />
