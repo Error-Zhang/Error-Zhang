@@ -5,7 +5,6 @@
 > I build frontend systems and AI agents, turning ideas into products that can be shipped and used.
 
 📍 Beijing · 🎂 25 years old<br />
-🎓 Master's Degree · Nankai University<br />
 📮 [zhenglian0906@gmail.com](mailto:zhenglian0906@gmail.com)<br />
 🌐 [velaros.cn](https://velaros.cn)
 
@@ -17,7 +16,6 @@
 
 ## Experience
 
-- **LowEntropyAI / AirJelly** — Position TBD · 2026 — Present
 - **Kuaishou** — 2025
 - **DJI Automotive** — 2024
 
