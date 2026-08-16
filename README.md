@@ -2,9 +2,9 @@
 
 # Hi, I'm ZhengLian 👋
 
-🚀 **AI Product Builder** · Creator of [VelarOS](https://velaros.cn)
+🚀 **AI Full-Stack Engineer** · Creator of [VelarOS](https://velaros.cn)
 
-> I'm an AI full-stack engineer who loves digging into new technologies, understanding systems end to end, and turning ideas into products with care. I'm currently open to full-time opportunities.
+> I'm an AI full-stack engineer, endlessly curious about how systems work and how technology becomes a product. I enjoy exploring hard problems, working across the stack, and refining ideas into useful, well-crafted products. For my next chapter, I hope to join a thoughtful team and build something meaningful for the long term.
 
 📍 Beijing · 🎂 25 years old<br />
 📮 [zhenglian0906@gmail.com](mailto:zhenglian0906@gmail.com)<br />
