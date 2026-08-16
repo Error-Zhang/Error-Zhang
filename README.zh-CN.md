@@ -1,0 +1,35 @@
+[English](README.md) | [简体中文](README.zh-CN.md)
+
+# 你好，我是 ZhengLian 👋
+
+🚀 **AI 产品构建者** · [VelarOS](https://velaros.cn) 创始人
+
+> 我构建前端系统和 AI Agent，把想法变成真正可交付、可使用的产品。
+
+📍 北京 · 🎂 25 岁<br />
+📮 [zhenglian0906@gmail.com](mailto:zhenglian0906@gmail.com)<br />
+🌐 [velaros.cn](https://velaros.cn)<br />
+🌐 [velarscript.velaros.cn](https://velarscript.velaros.cn)
+
+## 当前项目
+
+- ⛵ [VelarOS](https://velaros.cn) — 属于个人的 AI 操作系统。
+- 🧱 [VelarOS Platform](https://github.com/VelarOS-AI/VelarOS-Platform) — VelarOS 生态共享的 Kernel 与可复用软件包基础。
+- 🧠 [VelarScript](https://github.com/VelarOS-AI/VelarScript) — 一门由 AI 编写和维护、由人类阅读和拥有的语言。
+- 🛡️ [VelarOS Arch Guard](https://github.com/VelarOS-AI/VelarOS-Arch-Guard) — 可扩展的架构策略引擎，提供插件、安全自动修复与 CI 报告器。
+- 🧩 [VelarOS HTML Artifacts](https://github.com/Error-Zhang/VelarOS-HTML-Artifacts) — 流式 HTML Artifact 协议与沙箱运行时。
+- 🏗️ [babylon-forge](https://github.com/Error-Zhang/babylon-forge) — 面向 Babylon.js 的现代 TypeScript 框架与开发者工具集。
+
+## 经历
+
+- **LowEntropyAI** — 2026
+- **快手** — 2025
+- **大疆车载** — 2024
+
+## 技术栈
+
+**JavaScript / TypeScript** · **React** · **Vue** · **Electron** · **Babylon.js** · **AI Agent**
+
+## GitHub 动态
+
+![ZhengLian 的 GitHub 活动图](https://github-readme-activity-graph.vercel.app/graph?username=Error-Zhang&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true)
