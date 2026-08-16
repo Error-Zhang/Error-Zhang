@@ -1,6 +1,8 @@
 # Hi, I'm ZhengLian 👋
 
 🚀 **AI Product Builder** · Creator of [VelarOS](https://velaros.cn)
+- 🧠 [VelarScript](https://github.com/VelarOS-AI/VelarScript) — A language AI writes and maintains, and humans read and own.
+- 📚 [VelarScript Website](https://github.com/VelarOS-AI/VelarScript-Website) — Official website and documentation for the VelarScript language and Web framework.
 
 > I build frontend systems and AI agents, turning ideas into products that can be shipped and used.
 
@@ -11,6 +13,8 @@
 ## Current Projects
 
 - ⛵ [VelarOS](https://velaros.cn) — A personal AI operating system.
+- 🧠 [VelarScript](https://github.com/VelarOS-AI/VelarScript) — A language AI writes and maintains, and humans read and own.
+- 📚 [VelarScript Website](https://github.com/VelarOS-AI/VelarScript-Website) — Official website and documentation for the VelarScript language and Web framework.
 - 🧩 [VelarOS HTML Artifacts](https://github.com/Error-Zhang/VelarOS-HTML-Artifacts) — A streaming HTML artifact protocol and sandboxed runtime.
 - 🏗️ [babylon-forge](https://github.com/Error-Zhang/babylon-forge) — A modern TypeScript framework and developer toolkit for Babylon.js.
 
