@@ -4,7 +4,7 @@
 
 🚀 **AI Product Builder** · Creator of [VelarOS](https://velaros.cn)
 
-> I build frontend systems and AI agents, turning ideas into products that can be shipped and used.
+> I'm an AI full-stack engineer who loves digging into new technologies, understanding systems end to end, and turning ideas into products with care. I'm currently open to full-time opportunities.
 
 📍 Beijing · 🎂 25 years old<br />
 📮 [zhenglian0906@gmail.com](mailto:zhenglian0906@gmail.com)<br />
